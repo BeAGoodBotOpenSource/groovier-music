@@ -1,0 +1,51 @@
+artist_name,artist_popularity,song,song_popularity,song_duration_ms,spotify_track_id,genre,danceability,energy,valence,acousticness,instrumentalness,speechiness,loudness,tempo,key,mode,time_signature
+CKay,70,love nwantiti (ah ah ah),85,145800,2Xr1dTzJee307rmrkt8c0g,"afro r&b, afrobeats",0.727,0.739,0.533,0.365,0.00137,0.0411,-3.805,93.005,G#/Ab,Major,4
+WILLOW,70,Wait a Minute!,83,196520,0y60itmpH0aPKsFiGxmtnh,"afrofuturism, pop, post-teen pop, pov: indie",0.764,0.705,0.672,0.0371,1.94e-05,0.0278,-5.279,101.003,D#/Eb,Minor,4
+The Chemical Brothers,60,Galvanize,67,393813,4bz7uB4edifWKJXSDxwHcs,"alternative dance, big beat, breakbeat, electronica, filter house, rave, trip hop",0.745,0.714,0.365,0.0141,0.0222,0.0751,-3.681,104.003,G,Major,4
+Dominic Fike,76,Phone Numbers,76,146826,3f9Mzvd3URfbbIJBX4pz9Z,"alternative pop rock, pov: indie",0.884,0.539,0.776,0.239,0.0,0.208,-6.389,85.008,C#/Db,Minor,4
+Masego,67,Mystery Lady,73,228453,0bkTdkWwGk3OGFX0afD3Wj,"alternative r&b, indie soul",0.747,0.494,0.624,0.393,0.0,0.141,-7.957,76.006,D#/Eb,Minor,4
+Masego,67,Yebo/Sema,54,228463,0ed7g01Suk6ITt0vwT2BgD,"alternative r&b, indie soul",0.878,0.668,0.725,0.397,0.008,0.0745,-6.455,118.068,F,Minor,4
+Childish Gambino,77,Sober,74,252013,6YuFv5d7iGeNnFMu6xphZl,"atl hip hop, hip hop, rap",0.701,0.591,0.423,0.0979,2.53e-05,0.0301,-6.646,98.056,C,Major,4
+Empire of the Sun,70,Alive,70,204546,2O9O26335YYVckmRgPKY3s,"australian dance, australian electropop, dance rock, indietronica, neo-synthpop",0.524,0.882,0.399,0.108,1.1e-06,0.0367,-3.038,119.94,F,Major,4
+PinkPantheress,76,Boy's a Liar Pt. 2,95,131013,6AQbmUe0Qwf5PZnt4HmTXv,bedroom pop,0.696,0.809,0.857,0.252,0.000128,0.05,-8.254,132.962,F,Major,4
+Sérgio Mendes,57,Mas Que Nada,26,262840,0ahcURhWcr9Jr75GnG8NxQ,"bossa nova, brazilian jazz, samba",0.75,0.922,0.875,0.0343,2.66e-06,0.0791,-6.072,100.025,F,Minor,4
+The Weeknd,94,Blinding Lights,94,200040,0VjIjW4GlUZAMYd2vXMi3b,"canadian contemporary r&b, canadian pop, pop",0.514,0.73,0.334,0.00146,9.54e-05,0.0598,-5.934,171.005,C#/Db,Major,4
+The Weeknd,94,Stargirl Interlude,87,111626,5gDWsRxpJ2lZAffh5p7K0w,"canadian contemporary r&b, canadian pop, pop",0.715,0.47,0.426,0.353,0.0923,0.0772,-12.638,89.965,F,Minor,4
+Drake,94,Passionfruit,88,298940,5mCPDVBb16L4XQwDdbRUpz,"canadian hip hop, canadian pop, hip hop, rap, toronto rap",0.809,0.463,0.364,0.256,0.085,0.0396,-11.377,111.98,B,Major,4
+Kanye West,89,Stronger,85,311866,0j2T0R9dR9qdJYsB7ciXhf,"chicago rap, hip hop, rap",0.617,0.717,0.49,0.00564,0.0,0.153,-7.858,103.992,A#/Bb,Minor,4
+Piso 21,73,Te Vi,81,231848,059bcIhyc2SBwm6sw2AZzd,"colombian pop, latin pop, reggaeton, reggaeton colombiano, trap latino, urbano latino",0.877,0.777,0.706,0.0446,3.46e-05,0.117,-4.246,102.02,C#/Db,Major,4
+Kendrick Lamar,87,HUMBLE.,88,177000,7KXjTSCq5nL1LoYtL7XAwS,"conscious hip hop, hip hop, rap, west coast rap",0.908,0.621,0.421,0.000282,5.39e-05,0.102,-6.638,150.011,C#/Db,Minor,4
+Kendrick Lamar,87,PRIDE.,87,275253,6IZvVAP7VPPnsGX6bvgkqg,"conscious hip hop, hip hop, rap, west coast rap",0.665,0.535,0.37,0.0786,1.68e-05,0.0572,-7.056,138.842,E,Minor,4
+Calvin Harris,84,Feel So Close - Radio Edit,85,206413,1gihuPhrLraKYrJMAEONyc,"dance pop, edm, electro house, house, pop, progressive house, uk dance",0.707,0.924,0.919,0.000972,0.00703,0.031,-2.842,127.937,G,Major,4
+Calvin Harris,84,Slide (feat. Frank Ocean & Migos),79,230813,7tr2za8SQg2CI8EDgrdtNl,"dance pop, edm, electro house, house, pop, progressive house, uk dance",0.736,0.795,0.511,0.498,1.21e-06,0.0545,-3.299,104.066,C#/Db,Minor,4
+Major Lazer,73,Cold Water (feat. Justin Bieber & MØ),59,185351,0Ii19QCCwkEtZRqIzLAicF,"dance pop, edm, electro house, moombahton, pop, pop dance",0.608,0.798,0.5,0.0736,0.0,0.0432,-5.092,92.946,F#/Gb,Minor,4
+Pitbull,81,Time of Our Lives,85,229360,2bJvI42r8EF3wxjOuDav4r,"dance pop, miami hip hop, pop",0.721,0.802,0.724,0.0921,0.0,0.0583,-5.797,124.022,C#/Db,Major,4
+Bruno Mars,86,That's What I Like,89,206693,0KKkJNfGyhkQ5aFogxQAPU,"dance pop, pop",0.853,0.56,0.86,0.013,0.0,0.0406,-4.961,134.066,C#/Db,Major,4
+DNCE,67,Cake By The Ocean,85,219146,76hfruVvmfQbw0eYn1nmeC,"dance pop, pop",0.774,0.753,0.896,0.152,0.0,0.0517,-5.446,119.002,E,Minor,4
+Justin Timberlake,77,SexyBack (feat. Timbaland),82,242733,0O45fw2L5vsWpdsOdXwNAR,"dance pop, pop",0.967,0.583,0.964,0.0584,0.0,0.0789,-5.562,117.0,G,Minor,4
+Eminem,88,Lose Yourself,84,322226,1v7L65Lzy0j0vdpRjJewt1,"detroit hip hop, hip hop, rap",0.686,0.735,0.0596,0.00921,0.00066,0.264,-4.616,171.355,D,Major,4
+Post Malone,87,I Like You (A Happier Song) (with Doja Cat),88,192840,0O6u0VJ46W86TxN9wgyqDj,"dfw rap, melodic rap, pop, rap",0.733,0.67,0.472,0.121,0.0,0.0751,-6.009,100.964,F,Major,4
+Martin Garrix,74,Drown (feat. Clinton Kane),69,174062,4RVtBlHFKj51Ipvpfv5ER4,"dutch edm, edm, pop, pop dance, progressive house",0.573,0.739,0.363,0.212,0.0,0.0581,-5.455,120.077,A,Major,4
+Disclosure,70,Omen - Radio Edit,65,196817,78EQ5LZGgviMU9k0zrqv1r,"edm, house, indietronica, uk dance",0.671,0.786,0.621,0.115,0.0,0.14,-4.857,106.057,G#/Ab,Major,4
+Swedish House Mafia,74,Don't You Worry Child - Radio Edit,45,213168,1MlAkYV0nbRKWhhfvTt3zc,"edm, pop dance, progressive electro house",0.614,0.832,0.429,0.11,0.0,0.0522,-3.419,129.038,B,Minor,4
+Avicii,79,Wake Me Up,90,247426,0nrRP2bk19rLc0orkWPQk2,"edm, pop, pop dance",0.532,0.783,0.643,0.0038,0.0012,0.0523,-5.697,124.08,D,Major,4
+Daft Punk,79,Da Funk,66,328680,0MyY4WcN7DIfbSmp5yej5z,"electro, filter house, rock",0.806,0.7,0.892,0.00196,0.891,0.0752,-5.269,111.215,C,Minor,4
+The Chainsmokers,78,Paris,78,221506,72jbDTw1piOOj770jWNeaG,"electropop, pop",0.653,0.658,0.219,0.0215,1.66e-06,0.0304,-6.428,99.99,D,Major,4
+Kid Cudi,78,Day 'N' Nite (Nightmare),75,221240,60PAzFNW3vAiAiVK6DRJfB,"hip hop, ohio hip hop, pop rap, rap",0.88,0.443,0.803,0.462,7.13e-06,0.0653,-6.359,138.018,B,Minor,4
+"Tyler, The Creator",84,See You Again (feat. Kali Uchis),96,180386,7KA4W4McWYRpgf0fWsJZWB,"hip hop, rap",0.558,0.559,0.62,0.371,7.49e-06,0.0959,-9.222,78.558,F#/Gb,Major,4
+Labrinth,78,Formula,86,91869,6EtKlIQmGPB9SX8UjDJG5s,"indie poptimism, pop",0.574,0.664,0.226,0.0448,0.0553,0.0409,-6.068,144.654,B,Major,4
+Two Door Cinema Club,66,What You Know,77,191706,3GBApU0NuzH4hKZq4NOSdA,"indie rock, indietronica, irish rock, modern alternative rock, modern rock, northern irish indie",0.563,0.739,0.775,0.00073,1.45e-05,0.0416,-4.239,139.0,F#/Gb,Minor,4
+León Larregui,67,Locos,80,177600,3GSMdtJphymHEsR8K9jT5Q,"latin alternative, latin rock, rock en espanol",0.724,0.646,0.957,0.072,0.000157,0.0352,-6.475,112.019,A#/Bb,Major,4
+¿Téo?,57,Suplicar,55,152967,286XkmMVdnPWMvQu0F9XjK,latinx alternative,0.709,0.596,0.543,0.121,0.0124,0.0617,-8.361,105.022,D#/Eb,Minor,4
+Coldplay,87,Adventure of a Lifetime,82,263786,69uxyAqqPIsUyTO8txoP2M,"permanent wave, pop",0.638,0.924,0.53,0.00205,0.000175,0.036,-3.887,111.995,G,Major,4
+Harry Styles,87,As It Was,94,167303,4Dvkj6JhhA12EX05fT7y2e,pop,0.52,0.731,0.662,0.342,0.00101,0.0557,-5.338,173.93,F#/Gb,Minor,4
+Sabrina Carpenter,75,Nonsense,91,163648,6dgUya35uo964z7GZXM07g,pop,0.74,0.697,0.732,0.0268,0.0,0.034,-4.912,138.992,G#/Ab,Major,4
+Miley Cyrus,85,Flowers,91,200600,4DHcnVTT87F0zZhRPYmZ3B,pop,0.707,0.681,0.646,0.0632,5.15e-06,0.0668,-4.325,117.999,C,Major,4
+Maroon 5,83,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",84,201493,7pYfyrMNPn3wtoCyqcTVoI,pop,0.722,0.761,0.624,0.0117,0.0,0.0475,-4.459,128.044,B,Minor,4
+Yebba,64,Far Away (feat. A$AP Rocky),67,199426,14qNHvX8h6HoynFuV0RxWS,pop soul,0.687,0.584,0.228,0.222,0.00114,0.0422,-7.336,88.025,F#/Gb,Minor,4
+Zara Larsson,75,Lush Life,83,201122,1rIKgCH4H52lrvDcz50hS8,"pop, scandipop, swedish electropop, swedish pop",0.694,0.712,0.799,0.132,0.0,0.046,-3.923,98.023,G,Minor,4
+J Balvin,85,Qué Más Pues?,78,217360,6D2TCm4nf5nxAcdGJ7w3QP,"reggaeton, reggaeton colombiano, trap latino, urbano latino",0.903,0.817,0.732,0.0272,0.000311,0.095,-3.972,102.014,G#/Ab,Major,4
+KAROL G,87,Tusa,77,201920,0dKg2vGC1hFqcK5LGTaKzX,"reggaeton, reggaeton colombiano, trap latino, urbano latino",0.799,0.701,0.607,0.309,7.36e-05,0.282,-3.272,100.946,D,Major,4
+Bad Bunny,95,Tití Me Preguntó,91,243716,1IHWl5LamUGEuP4ozKQSXZ,"reggaeton, trap latino, urbano latino",0.65,0.715,0.187,0.0993,0.000291,0.253,-5.198,106.672,F,Minor,4
+Bad Bunny,95,DÁKITI,82,205090,4MzXwWMhyBbmu6hOcLVD49,"reggaeton, trap latino, urbano latino",0.731,0.573,0.145,0.401,5.22e-05,0.0544,-10.059,109.928,E,Minor,4
+Nicky Youre,70,Sunroof,88,163025,4h4QlmocP3IuwYEj2j14p8,singer-songwriter pop,0.768,0.714,0.842,0.352,0.0,0.0401,-5.11,131.443,A#/Bb,Major,4

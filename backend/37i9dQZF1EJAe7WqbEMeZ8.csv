@@ -1,0 +1,51 @@
+id,artist_name,artist_popularity,song,song_popularity,song_duration_ms,spotify_track_id,genre,danceability,energy,valence,acousticness,instrumentalness,speechiness,loudness,tempo,key,mode,time_signature,event_ai
+1,Ella Mai,68,She Don't (feat. Ty Dolla $Ign),70,264097,01JPQ87UHeGysPVwTqMJHK,"['r&b', 'rap', 'uk contemporary r&b']",0.649,0.478,0.151,0.274,0.0,0.0481,-7.503,99.967,G,Minor,4,R&B Night
+2,The Weeknd,94,Die For You,90,260253,2LBqCSwhJGcFQeTHMVGwy3,"['canadian contemporary r&b', 'canadian pop', 'pop']",0.586,0.525,0.508,0.111,0.0,0.0615,-7.163,133.629,C#/Db,Minor,4,Afrobeats Party
+3,SZA,87,Snooze,91,201800,4iZ4pt7kvcaH6Yo8UoZ4s2,"['pop', 'r&b', 'rap']",0.559,0.551,0.392,0.141,0.0,0.132,-7.231,143.008,F,Major,4,Bollywood Night
+4,Becky G,78,Bubalu,73,228493,7dNwJbsT0sg1le5kVugGJb,"['latin pop', 'latin viral pop', 'rap latina', 'reggaeton', 'trap latino', 'urbano latino']",0.8,0.355,0.253,0.616,0.0,0.0895,-10.47,145.929,F#/Gb,Minor,4,R&B Night
+5,KRYKONBEATS,8,Symphony - KRYKONBEATS Remix,22,146739,25UBThmJelIJXbkXHpqEJk,[],0.736,0.546,0.587,0.652,3.99e-05,0.0285,-6.724,91.994,C#/Db,Minor,4,Pop Experience
+6,Jules Massenet,49,La Vierge / Scene 4: The Assumption: Le dernier sommeil de la Vièrge (The Last Sleep of the Virgin),56,302466,0BGJjuvUKA1UqlfADE6Lyx,"['classical', 'french opera', 'french romanticism', 'post-romantic era']",0.162,0.0888,0.0391,0.866,0.378,0.0358,-26.139,81.612,G,Major,4,R&B Night
+7,Victoria Monét,65,We Might Even Be Falling In Love (Duet) - Spotify Singles,74,90110,0wOtc2nY3NOohp4xSwOyTN,['alternative r&b'],0.731,0.423,0.78,0.473,0.000413,0.0784,-10.147,76.964,F#/Gb,Major,4,Classical Soiree
+8,Khutko,40,Walk Out,53,153506,1TYPv1m4WCmSuoE48RIBAe,"['lo-fi jazzhop', 'lo-fi study']",0.829,0.24,0.517,0.716,0.903,0.203,-13.585,77.028,F#/Gb,Minor,4,R&B Night
+9,Sabrina Carpenter,76,Nonsense,90,163648,6dgUya35uo964z7GZXM07g,['pop'],0.74,0.697,0.732,0.0268,0.0,0.034,-4.912,138.992,G#/Ab,Major,4,Electronic Fusion
+10,Ed Patrick,45,Make It Me,31,191213,6yBuSvfT1HVFdo2p5BUejp,['modern indie folk'],0.682,0.381,0.418,0.855,0.579,0.0367,-14.99,118.955,F,Minor,4,R&B Night
+11,Coldplay,86,Miracles,58,235342,1byIZa6CFerX5WXShwqAvf,"['permanent wave', 'pop']",0.35,0.572,0.109,0.0222,0.0214,0.0253,-8.399,93.013,F,Major,4,Soulful Sounds
+12,Pablo Lacadiere,34,El Día Que Te Olvide,36,194916,2QW5Z2DVpDjiIkw4YDWtiF,[],0.542,0.558,0.218,0.193,0.0,0.0375,-7.699,101.629,C#/Db,Major,4,Big Band Swing
+13,j'san,51,outer space,52,152571,1iZxnHkEcIAk65FH1SCCz2,"['chillhop', 'lo-fi beats']",0.611,0.195,0.119,0.418,0.914,0.0458,-12.797,140.108,F,Minor,4,Classical Soiree
+14,Piso 21,73,Te Vi,79,231848,059bcIhyc2SBwm6sw2AZzd,"['colombian pop', 'latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",0.877,0.777,0.706,0.0446,3.46e-05,0.117,-4.246,102.02,C#/Db,Major,4,Indie Folk Festival
+15,Landy Wen,40,能不能,39,287680,1O9rZg85FHOk7XaHjysi4y,['mandopop'],0.8,0.396,0.532,0.349,0.00019,0.0566,-8.851,128.0,D,Major,4,Jazz Lounge
+16,Ola Gjeilo,53,Still,47,142333,2eWtgHcw0q0829ZuuHgZqE,"['21st century classical', 'nordic contemporary classical']",0.398,0.00209,0.0971,0.996,0.955,0.0444,-39.959,71.461,C,Major,4,Bollywood Night
+17,Stephen Dawes,57,Teenage Dream,76,178000,3GWaFFi6TlPcZLYmCCHZ9O,['singer-songwriter pop'],0.622,0.375,0.221,0.411,0.0,0.0279,-9.069,111.968,A#/Bb,Major,4,Bollywood Night
+18,Vishal-Shekhar,73,Bin Tere,64,330360,3bZPdEskcnMdepwCaDSJRl,"['filmi', 'modern bollywood']",0.585,0.698,0.621,0.42,3.59e-06,0.0392,-6.261,139.831,A,Major,4,Classical Performance
+19,The Paper Kites,66,Walk Above the City (feat. Maro),45,240171,3EwR4QOVEWNg7st3Lq20cU,"['acoustic pop', 'australian indie folk', 'indie folk', 'stomp and holler']",0.683,0.246,0.291,0.864,0.527,0.0271,-17.599,99.016,C,Major,4,Indie Folk Festival
+20,Patrick Park,26,Life Is A Song,41,230200,26yGMckK9zY02InZVuBK9L,[],0.467,0.341,0.269,0.731,0.0,0.0378,-10.105,78.661,C#/Db,Major,4,Indie Folk Festival
+21,João Gilberto,62,Wave,54,281706,3JbZ8W2aFTIEP6EidBlN38,"['bossa nova', 'brazilian jazz', 'cool jazz', 'jazz guitar', 'samba', 'violao']",0.463,0.338,0.429,0.393,0.028,0.034,-16.857,140.724,F,Major,4,Reggaeton Fiesta
+22,Guitarricadelafuente,56,El Conticinio,26,213993,6dDhaHqJ3wUD3jbjGUBwzh,"['spanish pop', 'spanish rock']",0.63,0.106,0.181,0.916,5.76e-06,0.0535,-22.447,110.05,E,Major,4,Indie Pop Showcase
+23,Pyotr Ilyich Tchaikovsky,65,"Violin Concerto in D Major, Op. 35, TH 59: II. Canzonetta. Andante",33,383253,0LVuhwONShK5vky2u5EUGM,"['classical', 'classical drill', 'late romantic era', 'russian romanticism']",0.188,0.0333,0.0394,0.965,0.35,0.0464,-27.04,131.234,D#/Eb,Major,1,Acoustic Serenade
+24,Strings,39,Sar Kiye Yeh Pahar,38,343480,56TNm1b4adFgXLQrfSWv0L,"['classic pakistani pop', 'filmi', 'pakistani pop', 'pakistani rock']",0.614,0.694,0.762,0.000645,0.0427,0.0266,-7.516,104.924,C,Major,4,Pop Experience
+25,Young Dolph,70,Aspen,50,166333,2u8rtHHaBCnhS2qKu9jVgL,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",0.882,0.857,0.814,0.0649,0.0,0.256,-4.037,156.003,G#/Ab,Major,4,R&B Night
+26,Stephen Sanchez,74,Until I Found You (with Em Beihold) - Em Beihold Version,91,176440,1Y3LN4zO1Edc2EluIoSPJN,['gen z singer-songwriter'],0.551,0.55,0.342,0.777,0.0,0.0286,-5.339,101.19,A#/Bb,Major,3,R&B Night
+27,Swedish House Mafia,74,Moth To A Flame (with The Weeknd),83,234000,0VO8gYVDSwM1Qdd2GsMoYK,"['edm', 'pop dance', 'progressive electro house']",0.553,0.659,0.105,0.0027,0.0,0.0391,-7.295,120.146,G#/Ab,Major,4,Classical Soiree
+28,SZA,87,Kill Bill,92,153946,1Qrg8KqiBpW07V7PNxwwwL,"['pop', 'r&b', 'rap']",0.644,0.735,0.418,0.0521,0.144,0.0391,-5.747,88.98,G#/Ab,Major,4,R&B Night
+29,INTERWORLD,72,METAMORPHOSIS,89,142839,2ksyzVfU0WJoBpu8otr4pz,['phonk brasileiro'],0.593,0.641,0.147,0.426,0.901,0.0992,-12.727,175.014,G,Minor,4,Hip Hop Party
+30,Oxlade,66,KU LO SA (with Camila Cabello),68,148800,0HihDC6qQ8MChAhjfW3gMU,"['afrobeats', 'nigerian pop']",0.585,0.641,0.828,0.631,0.0,0.085,-5.053,93.058,A#/Bb,Minor,4,R&B Night
+31,Coi Leray,77,Players,85,139560,6UN73IYd0hZxLi8wFPMQij,"['new jersey underground rap', 'trap queen']",0.954,0.516,0.624,0.03,7.54e-06,0.16,-5.817,105.001,F#/Gb,Major,4,R&B Night
+32,Bad Bunny,94,Me Porto Bonito,91,178567,6Sq7ltF9Qa7SNFBsV5Cogx,"['reggaeton', 'trap latino', 'urbano latino']",0.911,0.712,0.425,0.0901,2.68e-05,0.0817,-5.105,92.005,C#/Db,Minor,4,R&B Night
+33,Sigvaldi Kaldalóns,46,Ave María (Arr. Víkingur Ólafsson) - Upright Piano,63,216213,6MzbO6YS0M6tjwT93hjAl0,['icelandic classical'],0.33,0.00357,0.121,0.995,0.953,0.0339,-33.142,100.741,D#/Eb,Major,3,Reggaeton Fiesta
+34,PinkPantheress,76,Boy's a Liar Pt. 2,92,131013,6AQbmUe0Qwf5PZnt4HmTXv,['bedroom pop'],0.696,0.809,0.857,0.252,0.000128,0.05,-8.254,132.962,F,Major,4,Indie Pop Showcase
+35,Taylor Swift,100,Anti-Hero,94,200690,0V3wPSX9ygBnCm8psDIegu,['pop'],0.637,0.643,0.533,0.13,1.8e-06,0.0519,-6.571,97.008,E,Major,4,Jazz Lounge
+36,4 In Love,18,一千零一個願望,37,258333,6RKSWu3lOnKxU29XXF53Q2,['taiwan idol pop'],0.444,0.521,0.291,0.287,0.0,0.0825,-7.155,205.364,F,Minor,4,Pop Experience
+37,Beach Weather,68,"Sex, Drugs, Etc.",82,196784,7MlDNspYwfqnHxORufupwq,[],0.57,0.842,0.47,0.0136,0.00876,0.0381,-5.085,143.975,E,Minor,4,EDM Extravaganza
+38,Ozuna,85,Hey Mor,89,196600,1zsPaEkglFvxjAhrM8yhpr,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",0.901,0.589,0.399,0.00302,0.000237,0.289,-6.713,98.002,C#/Db,Minor,4,Jazz Lounge
+39,BUNT.,62,Clouds,76,158760,2lWc1iJlz2NVcStV5fbtPG,['stutter house'],0.7,0.748,0.154,0.226,0.796,0.0771,-8.16,130.056,A,Minor,4,R&B Night
+40,Rema,78,Calm Down (with Selena Gomez),93,239317,0WtM2NBVQNNJLh6scP13H8,"['afrobeats', 'nigerian pop']",0.801,0.806,0.802,0.382,0.000669,0.0381,-5.206,106.999,B,Major,4,Indie Folk Festival
+41,Coldplay,86,A Sky Full of Stars,88,267866,0FDzzruyVECATHXKHFs9eJ,"['permanent wave', 'pop']",0.545,0.675,0.162,0.00617,0.00197,0.0279,-6.474,124.97,F#/Gb,Major,4,Jazz Lounge
+42,Christoph Willibald Gluck,50,"Gluck: Orfeo ed Euridice, Wq. 30, Act 2: Balletto",1,337440,5AZcKGPeRdAvpXY4HqGoIn,"['classical', 'classical era', 'early music', 'galante era']",0.122,0.0151,0.0885,0.976,0.854,0.052,-33.103,81.95,F,Major,3,Indie Pop Showcase
+43,Bizarrap,84,"Quevedo: Bzrp Music Sessions, Vol. 52",92,198937,2tTmW7RDtMQtBk7m2rYeSw,"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino', 'urbano latino']",0.621,0.782,0.55,0.0125,0.033,0.044,-5.548,128.033,D,Major,4,Bossa Nova Experience
+44,Dominique Cerejo,50,Sooraj Ki Baahon Mein,67,202919,723xQva0yBF7M6K3nDAG8R,"['filmi', 'modern bollywood']",0.855,0.553,0.874,0.19,5.19e-06,0.0331,-6.52,124.922,B,Major,4,Pop Experience
+45,Sleepy Hallow,73,1999,69,208292,5SnQILxl7lE7J8bRgM3NSb,"['brooklyn drill', 'nyc rap']",0.802,0.502,0.675,0.856,0.0,0.059,-7.136,123.097,B,Minor,4,Classical Performance
+46,Libianca,72,People,91,184791,26b3oVLrRUaaybJulow9kz,['afrobeats'],0.573,0.422,0.693,0.551,1.31e-05,0.0678,-7.621,124.357,A#/Bb,Minor,5,Bollywood Night
+47,DVRST,67,Close Eyes,83,132346,3CLSHJv5aUROAN2vfOyCOh,"['chill phonk', 'drift phonk']",0.784,0.572,0.209,0.0748,0.843,0.0573,-9.853,96.181,C,Major,4,Indie Pop Showcase
+48,Marques,38,Lo Que No Hice Yo,45,217541,7nBXAerOWOiecv0TLyfAtg,['ecuadorian pop'],0.705,0.57,0.587,0.279,0.0,0.0304,-7.699,104.925,C,Minor,4,R&B Night
+49,Novo Amor,69,No Plans,49,195680,3qjgMPGzM3dnRwoAG3Mv4t,"['ambient folk', 'indie folk']",0.562,0.504,0.488,0.894,0.209,0.0375,-8.359,164.21,D#/Eb,Major,4,Acoustic Serenade
+50,Dirty Heads,64,Vacation,63,209721,7lgvGRC1gN0JGgY9VGXsQT,"['reggae fusion', 'reggae rock']",0.736,0.751,0.839,0.0381,0.0,0.034,-5.588,150.064,G#/Ab,Major,4,R&B Night

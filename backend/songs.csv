@@ -1,0 +1,168 @@
+0,1
+"afro r&b, afrobeats","   artist_name  artist_popularity                      song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness   tempo    key   mode  time_signature
+13        CKay                 70  love nwantiti (ah ah ah)               85            145800  2Xr1dTzJee307rmrkt8c0g  ...      0.0411    -3.805  93.005  G#/Ab  Major               4
+
+[1 rows x 18 columns]"
+"afrofuturism, pop, post-teen pop, pov: indie","   artist_name  artist_popularity            song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness    tempo    key   mode  time_signature
+12      WILLOW                 70  Wait a Minute!               83            196520  0y60itmpH0aPKsFiGxmtnh  ...      0.0278    -5.279  101.003  D#/Eb  Minor               4
+
+[1 rows x 18 columns]"
+"alternative dance, big beat, breakbeat, electronica, filter house, rave, trip hop","              artist_name  artist_popularity       song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness    tempo  key   mode  time_signature
+22  The Chemical Brothers                 60  Galvanize               67            393813  4bz7uB4edifWKJXSDxwHcs  ...      0.0751    -3.681  104.003    G  Major               4
+
+[1 rows x 18 columns]"
+"alternative pop rock, pov: indie","     artist_name  artist_popularity           song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness   tempo    key   mode  time_signature
+15  Dominic Fike                 76  Phone Numbers               76            146826  3f9Mzvd3URfbbIJBX4pz9Z  ...       0.208    -6.389  85.008  C#/Db  Minor               4
+
+[1 rows x 18 columns]"
+"alternative r&b, indie soul","   artist_name  artist_popularity          song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness    tempo    key   mode  time_signature
+1       Masego                 67  Mystery Lady               73            228453  0bkTdkWwGk3OGFX0afD3Wj  ...      0.1410    -7.957   76.006  D#/Eb  Minor               4
+25      Masego                 67     Yebo/Sema               54            228463  0ed7g01Suk6ITt0vwT2BgD  ...      0.0745    -6.455  118.068      F  Minor               4
+
+[2 rows x 18 columns]"
+"atl hip hop, hip hop, rap","        artist_name  artist_popularity   song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness   tempo  key   mode  time_signature
+3  Childish Gambino                 77  Sober               74            252013  6YuFv5d7iGeNnFMu6xphZl  ...      0.0301    -6.646  98.056    C  Major               4
+
+[1 rows x 18 columns]"
+"australian dance, australian electropop, dance rock, indietronica, neo-synthpop","          artist_name  artist_popularity   song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness   tempo  key   mode  time_signature
+39  Empire of the Sun                 70  Alive               70            204546  2O9O26335YYVckmRgPKY3s  ...      0.0367    -3.038  119.94    F  Major               4
+
+[1 rows x 18 columns]"
+bedroom pop,"       artist_name  artist_popularity                song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness    tempo  key   mode  time_signature
+10  PinkPantheress                 76  Boy's a Liar Pt. 2               95            131013  6AQbmUe0Qwf5PZnt4HmTXv  ...        0.05    -8.254  132.962    F  Major               4
+
+[1 rows x 18 columns]"
+"bossa nova, brazilian jazz, samba","      artist_name  artist_popularity          song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness    tempo  key   mode  time_signature
+21  Sérgio Mendes                 57  Mas Que Nada               26            262840  0ahcURhWcr9Jr75GnG8NxQ  ...      0.0791    -6.072  100.025    F  Minor               4
+
+[1 rows x 18 columns]"
+"canadian contemporary r&b, canadian pop, pop","   artist_name  artist_popularity                song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness    tempo    key   mode  time_signature
+28  The Weeknd                 94     Blinding Lights               94            200040  0VjIjW4GlUZAMYd2vXMi3b  ...      0.0598    -5.934  171.005  C#/Db  Major               4
+6   The Weeknd                 94  Stargirl Interlude               87            111626  5gDWsRxpJ2lZAffh5p7K0w  ...      0.0772   -12.638   89.965      F  Minor               4
+
+[2 rows x 18 columns]"
+"canadian hip hop, canadian pop, hip hop, rap, toronto rap","  artist_name  artist_popularity          song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness   tempo  key   mode  time_signature
+2       Drake                 94  Passionfruit               88            298940  5mCPDVBb16L4XQwDdbRUpz  ...      0.0396   -11.377  111.98    B  Major               4
+
+[1 rows x 18 columns]"
+"chicago rap, hip hop, rap","   artist_name  artist_popularity      song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness    tempo    key   mode  time_signature
+44  Kanye West                 89  Stronger               85            311866  0j2T0R9dR9qdJYsB7ciXhf  ...       0.153    -7.858  103.992  A#/Bb  Minor               4
+
+[1 rows x 18 columns]"
+"colombian pop, latin pop, reggaeton, reggaeton colombiano, trap latino, urbano latino","   artist_name  artist_popularity   song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness   tempo    key   mode  time_signature
+26     Piso 21                 73  Te Vi               81            231848  059bcIhyc2SBwm6sw2AZzd  ...       0.117    -4.246  102.02  C#/Db  Major               4
+
+[1 rows x 18 columns]"
+"conscious hip hop, hip hop, rap, west coast rap","       artist_name  artist_popularity     song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness    tempo    key   mode  time_signature
+47  Kendrick Lamar                 87  HUMBLE.               88            177000  7KXjTSCq5nL1LoYtL7XAwS  ...      0.1020    -6.638  150.011  C#/Db  Minor               4
+5   Kendrick Lamar                 87   PRIDE.               87            275253  6IZvVAP7VPPnsGX6bvgkqg  ...      0.0572    -7.056  138.842      E  Minor               4
+
+[2 rows x 18 columns]"
+"dance pop, edm, electro house, house, pop, progressive house, uk dance","      artist_name  artist_popularity                               song  song_popularity  song_duration_ms  ... loudness    tempo    key   mode  time_signature
+36  Calvin Harris                 84         Feel So Close - Radio Edit               85            206413  ...   -2.842  127.937      G  Major               4
+0   Calvin Harris                 84  Slide (feat. Frank Ocean & Migos)               79            230813  ...   -3.299  104.066  C#/Db  Minor               4
+
+[2 rows x 18 columns]"
+"dance pop, edm, electro house, moombahton, pop, pop dance","    artist_name  artist_popularity                                   song  song_popularity  song_duration_ms  ... loudness   tempo    key   mode  time_signature
+33  Major Lazer                 73  Cold Water (feat. Justin Bieber & MØ)               59            185351  ...   -5.092  92.946  F#/Gb  Minor               4
+
+[1 rows x 18 columns]"
+"dance pop, miami hip hop, pop","   artist_name  artist_popularity               song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness    tempo    key   mode  time_signature
+37     Pitbull                 81  Time of Our Lives               85            229360  2bJvI42r8EF3wxjOuDav4r  ...      0.0583    -5.797  124.022  C#/Db  Major               4
+
+[1 rows x 18 columns]"
+"dance pop, pop","          artist_name  artist_popularity                        song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness    tempo    key   mode  time_signature
+34         Bruno Mars                 86          That's What I Like               89            206693  0KKkJNfGyhkQ5aFogxQAPU  ...      0.0406    -4.961  134.066  C#/Db  Major               4
+17               DNCE                 67           Cake By The Ocean               85            219146  76hfruVvmfQbw0eYn1nmeC  ...      0.0517    -5.446  119.002      E  Minor               4
+42  Justin Timberlake                 77  SexyBack (feat. Timbaland)               82            242733  0O45fw2L5vsWpdsOdXwNAR  ...      0.0789    -5.562  117.000      G  Minor               4
+
+[3 rows x 18 columns]"
+"detroit hip hop, hip hop, rap","   artist_name  artist_popularity           song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness    tempo  key   mode  time_signature
+46      Eminem                 88  Lose Yourself               84            322226  1v7L65Lzy0j0vdpRjJewt1  ...       0.264    -4.616  171.355    D  Major               4
+
+[1 rows x 18 columns]"
+"dfw rap, melodic rap, pop, rap","   artist_name  artist_popularity                                         song  song_popularity  song_duration_ms  ... loudness    tempo  key   mode  time_signature
+8  Post Malone                 87  I Like You (A Happier Song) (with Doja Cat)               88            192840  ...   -6.009  100.964    F  Major               4
+
+[1 rows x 18 columns]"
+"dutch edm, edm, pop, pop dance, progressive house","      artist_name  artist_popularity                        song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness    tempo  key   mode  time_signature
+31  Martin Garrix                 74  Drown (feat. Clinton Kane)               69            174062  4RVtBlHFKj51Ipvpfv5ER4  ...      0.0581    -5.455  120.077    A  Major               4
+
+[1 rows x 18 columns]"
+"edm, house, indietronica, uk dance","   artist_name  artist_popularity               song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness    tempo    key   mode  time_signature
+19  Disclosure                 70  Omen - Radio Edit               65            196817  78EQ5LZGgviMU9k0zrqv1r  ...        0.14    -4.857  106.057  G#/Ab  Major               4
+
+[1 rows x 18 columns]"
+"edm, pop dance, progressive electro house","            artist_name  artist_popularity                                song  song_popularity  song_duration_ms  ... loudness    tempo  key   mode  time_signature
+38  Swedish House Mafia                 74  Don't You Worry Child - Radio Edit               45            213168  ...   -3.419  129.038    B  Minor               4
+
+[1 rows x 18 columns]"
+"edm, pop, pop dance","   artist_name  artist_popularity        song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness   tempo  key   mode  time_signature
+41      Avicii                 79  Wake Me Up               90            247426  0nrRP2bk19rLc0orkWPQk2  ...      0.0523    -5.697  124.08    D  Major               4
+
+[1 rows x 18 columns]"
+"electro, filter house, rock","   artist_name  artist_popularity     song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness    tempo  key   mode  time_signature
+20   Daft Punk                 79  Da Funk               66            328680  0MyY4WcN7DIfbSmp5yej5z  ...      0.0752    -5.269  111.215    C  Minor               4
+
+[1 rows x 18 columns]"
+"electropop, pop","         artist_name  artist_popularity   song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness  tempo  key   mode  time_signature
+32  The Chainsmokers                 78  Paris               78            221506  72jbDTw1piOOj770jWNeaG  ...      0.0304    -6.428  99.99    D  Major               4
+
+[1 rows x 18 columns]"
+"hip hop, ohio hip hop, pop rap, rap","   artist_name  artist_popularity                      song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness    tempo  key   mode  time_signature
+45    Kid Cudi                 78  Day 'N' Nite (Nightmare)               75            221240  60PAzFNW3vAiAiVK6DRJfB  ...      0.0653    -6.359  138.018    B  Minor               4
+
+[1 rows x 18 columns]"
+"hip hop, rap","          artist_name  artist_popularity                              song  song_popularity  song_duration_ms  ... loudness   tempo    key   mode  time_signature
+4  Tyler, The Creator                 84  See You Again (feat. Kali Uchis)               96            180386  ...   -9.222  78.558  F#/Gb  Major               4
+
+[1 rows x 18 columns]"
+"indie poptimism, pop","   artist_name  artist_popularity     song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness    tempo  key   mode  time_signature
+14    Labrinth                 78  Formula               86             91869  6EtKlIQmGPB9SX8UjDJG5s  ...      0.0409    -6.068  144.654    B  Major               4
+
+[1 rows x 18 columns]"
+"indie rock, indietronica, irish rock, modern alternative rock, modern rock, northern irish indie","             artist_name  artist_popularity           song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness  tempo    key   mode  time_signature
+23  Two Door Cinema Club                 66  What You Know               77            191706  3GBApU0NuzH4hKZq4NOSdA  ...      0.0416    -4.239  139.0  F#/Gb  Minor               4
+
+[1 rows x 18 columns]"
+"latin alternative, latin rock, rock en espanol","      artist_name  artist_popularity   song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness    tempo    key   mode  time_signature
+18  León Larregui                 67  Locos               80            177600  3GSMdtJphymHEsR8K9jT5Q  ...      0.0352    -6.475  112.019  A#/Bb  Major               4
+
+[1 rows x 18 columns]"
+latinx alternative,"   artist_name  artist_popularity      song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness    tempo    key   mode  time_signature
+49       ¿Téo?                 57  Suplicar               55            152967  286XkmMVdnPWMvQu0F9XjK  ...      0.0617    -8.361  105.022  D#/Eb  Minor               4
+
+[1 rows x 18 columns]"
+"permanent wave, pop","   artist_name  artist_popularity                     song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness    tempo  key   mode  time_signature
+16    Coldplay                 87  Adventure of a Lifetime               82            263786  69uxyAqqPIsUyTO8txoP2M  ...       0.036    -3.887  111.995    G  Major               4
+
+[1 rows x 18 columns]"
+pop,"          artist_name  artist_popularity                                               song  song_popularity  song_duration_ms  ... loudness    tempo    key   mode  time_signature
+29       Harry Styles                 87                                          As It Was               94            167303  ...   -5.338  173.930  F#/Gb  Minor               4
+9   Sabrina Carpenter                 75                                           Nonsense               91            163648  ...   -4.912  138.992  G#/Ab  Major               4
+43        Miley Cyrus                 85                                            Flowers               91            200600  ...   -4.325  117.999      C  Major               4
+40           Maroon 5                 83  Moves Like Jagger - Studio Recording From ""The...               84            201493  ...   -4.459  128.044      B  Minor               4
+
+[4 rows x 18 columns]"
+pop soul,"  artist_name  artist_popularity                         song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness   tempo    key   mode  time_signature
+7       Yebba                 64  Far Away (feat. A$AP Rocky)               67            199426  14qNHvX8h6HoynFuV0RxWS  ...      0.0422    -7.336  88.025  F#/Gb  Minor               4
+
+[1 rows x 18 columns]"
+"pop, scandipop, swedish electropop, swedish pop","     artist_name  artist_popularity       song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness   tempo  key   mode  time_signature
+35  Zara Larsson                 75  Lush Life               83            201122  1rIKgCH4H52lrvDcz50hS8  ...       0.046    -3.923  98.023    G  Minor               4
+
+[1 rows x 18 columns]"
+"reggaeton, reggaeton colombiano, trap latino, urbano latino","   artist_name  artist_popularity           song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness    tempo    key   mode  time_signature
+24    J Balvin                 85  Qué Más Pues?               78            217360  6D2TCm4nf5nxAcdGJ7w3QP  ...       0.095    -3.972  102.014  G#/Ab  Major               4
+30     KAROL G                 87           Tusa               77            201920  0dKg2vGC1hFqcK5LGTaKzX  ...       0.282    -3.272  100.946      D  Major               4
+
+[2 rows x 18 columns]"
+"reggaeton, trap latino, urbano latino","   artist_name  artist_popularity              song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness    tempo  key   mode  time_signature
+27   Bad Bunny                 95  Tití Me Preguntó               91            243716  1IHWl5LamUGEuP4ozKQSXZ  ...      0.2530    -5.198  106.672    F  Minor               4
+48   Bad Bunny                 95            DÁKITI               82            205090  4MzXwWMhyBbmu6hOcLVD49  ...      0.0544   -10.059  109.928    E  Minor               4
+
+[2 rows x 18 columns]"
+singer-songwriter pop,"    artist_name  artist_popularity     song  song_popularity  song_duration_ms        spotify_track_id  ... speechiness  loudness    tempo    key   mode  time_signature
+11  Nicky Youre                 70  Sunroof               88            163025  4h4QlmocP3IuwYEj2j14p8  ...      0.0401     -5.11  131.443  A#/Bb  Major               4
+
+[1 rows x 18 columns]"
